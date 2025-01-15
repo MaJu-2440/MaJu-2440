@@ -1,7 +1,7 @@
 ## Oii! Eu sou a MaJu Pacheco
 
-- 👀 Trabalho em front-end
-- 🌱 Aprendendo Javascript
+- 👀 Trabalho em Front-end
+- 🌱 Aprendendo ReactJS
 - 📫 Entre em contato pelo email: [mariapf.contato@gmail.com]
 - 😄 Pronomes: ela-dela
 
@@ -12,6 +12,7 @@
   <img align="center" alt="MaJu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MaJu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MaJu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="MaJu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 ##
