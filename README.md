@@ -1,4 +1,4 @@
-## Oii! Eu sou a Maria Julia Freitas
+## Oii! Eu sou a MaJu Pacheco
 
 - 👀 Trabalho em front-end
 - 🌱 Aprendendo Javascript
