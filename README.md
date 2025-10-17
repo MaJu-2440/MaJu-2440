@@ -6,8 +6,6 @@
 
 - 🌱 Estudando na [Alura](https://www.alura.com.br/indica-dev/mariajuliapacheco2012)
 
-- 📚 Participando do Bootcamp Santander pela [DIO](https://www.dio.me/users/mariajuliapacheco2012)
-
 - 👨‍💻 Meu [portfolio](majupacheco.netlify.app)
 
 - 📫 Entre em contato por **mariapf.contato@gmail.com**
